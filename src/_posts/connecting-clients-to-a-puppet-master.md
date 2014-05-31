@@ -37,7 +37,7 @@ You should see
 
 Now on the server we can see the request that has come in with
 
-    puppet cert --list
+    puppet cert list
 
 You should see 'puppetclient'. Now we can sign the certificate with
 
